@@ -8,3 +8,11 @@
 .header-links {
     display: flex;
 }
+
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+  }
