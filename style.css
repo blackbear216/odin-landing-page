@@ -9,7 +9,6 @@
 .header-links {
     display: flex;
     font-size: 18px;
-    color: #E5E7EB;
     margin-right: 96px;
     gap: 16px;
 }
@@ -26,4 +25,5 @@ ul {
 
 a:link {
     text-decoration: none;
+    color: #E5E7EB;
 }
