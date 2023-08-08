@@ -34,6 +34,7 @@ a:link {
 .block-1 {
     display: flex;
     background-color: #1F2937;
+    justify-content: center;
 }
 
 h1 {
@@ -45,4 +46,14 @@ h1 {
 p {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.block-1-sub-1 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.block-1-sub-2 {
+    width: 400px;
 }
