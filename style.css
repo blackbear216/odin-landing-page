@@ -65,3 +65,10 @@ p {
     flex-basis: 192px;
     flex-grow: 1;
 }
+
+button {
+    width: 96px;
+    height: 32px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+}
