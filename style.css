@@ -9,14 +9,14 @@
 .header-links {
     display: flex;
     font-size: 18px;
-    margin-right: 96px;
+    margin-right: 192px;
     gap: 16px;
 }
 
 .header-logo {
     font-size: 24px;
     color: #F9FAF8;
-    margin-left: 96px;
+    margin-left: 192px;
 }
 
 ul {
@@ -36,17 +36,18 @@ a:link {
     background-color: #1F2937;
     justify-content: space-between;
     align-items: center;
-    padding: 96px;
+    padding: 96px 192px;
     height: 192px;
+    gap: 64px;
 }
 
-h1 {
+.block-1-main-text {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
 }
 
-p {
+.block-1-sub-text {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -59,8 +60,7 @@ p {
 }
 
 .block-1-sub-2 {
-    justify-content: center;
-    align-items: center;
+    color:#E5E7EB;
     background-color: grey;
     flex-basis: 192px;
     flex-grow: 1;
@@ -72,4 +72,11 @@ button {
     background-color: #3882f6;
     color: #F9FAF8;
     border-radius: 8px;
+}
+
+.placeholder-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 192px;
 }
