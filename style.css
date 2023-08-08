@@ -45,7 +45,6 @@ a:link {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
-    gap: 16px;
 }
 
 .block-1-sub-text {
@@ -74,6 +73,7 @@ button {
     color: #F9FAF8;
     border-radius: 8px;
     border: none;
+    margin-top: 8px;
 }
 
 .placeholder-img {
