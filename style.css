@@ -31,6 +31,10 @@ a:link {
 
 
 
+.block-1 {
+    display: flex;
+    background-color: #1F2937;
+}
 
 h1 {
     font-size: 48px;
