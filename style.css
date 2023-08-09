@@ -42,7 +42,7 @@ a:link {
     justify-content: space-between;
     align-items: center;
     padding: 96px 192px;
-    height: 192px;
+    height: 256px;
     gap: 64px;
 }
 
@@ -94,7 +94,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 192px;
+    height: 512px;
     margin: 0px 192px;
 }
 
@@ -103,11 +103,12 @@ button {
     font-weight: bolder;
     color: #1F2937;
     padding: 32px;
+    margin-bottom: 32px;
 }
 
 .block-2-blobs {
     display: flex;
-    gap: 32px;
+    gap: 64px;
 }
 
 .frame {
@@ -115,5 +116,16 @@ button {
     height: 160px;
     outline: 4px solid #3882f6;
     border-radius: 8px;
+    margin-bottom: 16px;
 }
 
+.blob {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 160px;
+}
+
+.blob-text {
+    text-align: center;
+}
