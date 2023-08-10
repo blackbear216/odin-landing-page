@@ -142,3 +142,11 @@ button {
     align-items: center;
     flex-direction: column;
 }
+
+.block-3-main-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+    margin: 0px 192px;
+}
