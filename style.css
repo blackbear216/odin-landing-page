@@ -129,3 +129,16 @@ button {
 .blob-text {
     text-align: center;
 }
+
+
+
+
+
+.block-3 {
+    background-color: #E5E7EB;
+    height: 512px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
