@@ -175,4 +175,14 @@ button {
     width: 762px;
     height: 128px;
     border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.block-4-banner-text-container {
+    margin-left: 64px;
+}
+
+.block-4-button {
+    margin-right: 64px;
 }
