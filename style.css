@@ -169,7 +169,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 256px;
+    height: 384px;
 }
 
 .block-4-banner {
@@ -200,5 +200,18 @@ button {
     margin-right: 64px;
     font-weight: bold;
     border: 2px solid #E5E7EB;
+}
+
+
+
+
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96px;
+    background-color: #1F2937;
+    color: #E5E7EB;
 }
 
