@@ -158,3 +158,13 @@ button {
     align-self: flex-end;
     margin: 0px 192px;
 }
+
+
+
+
+.block-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 256px;
+}
