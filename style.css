@@ -168,3 +168,11 @@ button {
     align-items: center;
     height: 256px;
 }
+
+.block-4-banner {
+    background-color: #3882f6;
+    display: flex;
+    width: 762px;
+    height: 128px;
+    border-radius: 8px;
+}
