@@ -181,6 +181,16 @@ button {
 
 .block-4-banner-text-container {
     margin-left: 64px;
+    color: #E5E7EB;
+}
+
+.block-4-banner-main-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.block-4-banner-sub-text {
+    font-size: 14px;
 }
 
 .block-4-button {
